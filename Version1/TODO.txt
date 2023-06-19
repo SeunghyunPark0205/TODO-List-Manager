@@ -1,4 +1,4 @@
-1. allInstruction 코드 확인
-2. LLVM 학회 논문 abstract 작성
-3. TODO 자동화 (1 insert, 2 delete, 3 change, 4 exit)
-4. dhry 벤치마크 컴파일
+1. test1
+2. test2
+3. test3
+4. test4
